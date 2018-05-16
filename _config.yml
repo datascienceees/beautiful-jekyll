@@ -27,9 +27,7 @@ navbar-links:
   About the course: "about"
   Apply: "apply"
   Assessment: "assessment"
-  Resources:
-    - Schedule: "schedule"
-    - Syllabus: ""
+  Syllabus: "syllabus"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
