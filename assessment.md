@@ -4,7 +4,7 @@ title: Course assessment
 subtitle: Details on the different assessment components
 ---
 
-Students will not be directly assessed on their command of programming languages (allowing more beginner and advanced students to participate on the course), but rather on how they engage with the quantitative skills being taught in the collaborative coding environment and how they design the teaching of any quantitative skills through the tutorial that they will develop. Students will be able to develop a tutorial at whichever skill level they prefer, and they will be assessed on the ability of their tutorial to communicate a specific quantitative skill, rather than the complexity of that skill.
+__Students will not be directly assessed on their command of programming languages (allowing more beginner and advanced students to participate on the course), but rather on how they engage with the quantitative skills being taught in the collaborative coding environment and how they design the teaching of any quantitative skills through the tutorial that they will develop. Students will be able to develop a tutorial at whichever skill level they prefer, and they will be assessed on the ability of their tutorial to communicate a specific quantitative skill, rather than the complexity of that skill.__
 
 ### Maintenance of individual repository and peer feedback on other students work - 20 %
 
@@ -12,13 +12,13 @@ Each student will create and maintain a GitHub repository that will contain thei
 
 Student will be encouraged to provide feedback to fellow students on their coding challenges and GitHub repository content by post issues on fellow students' code and to work collaboratively with students on particular challenges through their GitHub repositories. The feedback that students provide and the contributions that individuals make to group challenges will be assessed.
 
-At the end of the course, students will be assessed on both how they have structured and maintained their private repository and how they have contributed to the course repository and provided feedback to other students. Their work and also their engagement with the course material will be assessed through the repositories engagement statistics and the nature and depth of those engagements. 
+At the end of the course, students will be assessed on both how they have structured and maintained their private repository and how they have contributed to the course repository and provided feedback to other students. Their work and also their engagement with the course material will be assessed through the repositories engagement statistics and the nature and depth of those engagements (Figures 1 and 2). 
  
+<center> <img src="{{ site.baseurl }}/img/workflow1.png" alt="Img" style="width: 600px;"/> </center>
+Figure 1. Example of how engagement can be tracked in a GitHub repository.
 
-Figure 3. Example of how engagement can be tracked in a GitHub repository.
-
-
-Figure 4. Example of how contributions by different students can be tracked in a GitHub repository.
+<center> <img src="{{ site.baseurl }}/img/workflow2.png" alt="Img" style="width: 600px;"/> </center>
+Figure 2. Example of how contributions by different students can be tracked in a GitHub repository.
 
 ### Weekly challenges (5% per challenge x 8 challenges) - 40%
 
