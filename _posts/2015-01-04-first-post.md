@@ -1,7 +1,24 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Data Science in Ecology and Environmental Science
 ---
 
-This is my first post, how exciting!
+### Course aims
+__The Data Science in Ecology and Environmental Science course aims to promote the development of quantitative skills among 3rd and 4th year students (and MSc students when appropriate) using interactive workshops and an online learning platform.__
+
+Key skillsets in ecological and environmental sciences include quantitative skills such as data manipulation, data visualization, coding, statistics, simulation, and more - together this skillset can be called data science. Data Science in Ecology and Environmental Sciences will teach quantitative skills including data management, data visualization, programming, simulation and statistical analysis. The course will teach about the field of data science and how it applies to the disciplines of ecology and environmental science. Students will learn about best practices in data science and will contribute to peer learning. Skills will be taught using an online problem-based learning approach and in class tutorials and discussions.
+
+### <a href="https://datascienceees.github.io/apply/" target="_blank">Apply now to join us for the Data Science course starting in Sept 2018!</a>
+
+### Learning outcomes
+
+1.	Understand key quantitative skills in the disciplines of ecology and environmental sciences including data management, data visualization, programming, simulation and statistical analysis.
+2.	Use data science tools to address research questions and challenges in ecology and environmental sciences.
+3.	Implement version control to back up work, code collaboratively and write reproducible workflow reports.
+4.	Practice teaching quantitative skills and develop an online tutorial.
+5.	Learn about the field of data science and future careers in this area
+
+### Teaching team
+<a href="https://teamshrub.com" target="_blank">Isla Myers-Smith</a> (Course organiser)
+<a href="https://gndaskalova.com" target="_blank">Gergana Daskalova</a> (PhD tutor)
+With support from the larger <a href="https://ourcodingclub.github.io/team/" target="_blank">Coding Club team</a> for the development of online tutorials.
