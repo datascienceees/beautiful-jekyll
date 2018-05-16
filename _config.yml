@@ -27,7 +27,7 @@ navbar-links:
   About me: "aboutme"
   Apply: "apply"
   Assessment: "assessment"
-  Resources: "resources"
+  Resources:
     - Schedule: ""
     - Syllabus: ""
 
