@@ -8,17 +8,17 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/teamshrub/"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/datascienceees"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "https://twitter.com/our_codingclub"
   icon: "fa-twitter"
 
 reddit:
@@ -33,7 +33,7 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:isla.myers-smith@ed.ac.uk"
   icon: "fa-envelope"
 
 linkedin:
@@ -58,7 +58,7 @@ snapchat:
 
 instagram:
   name: "Instagram"
-  baseURL: "https://www.instagram.com/"
+  baseURL: "https://www.instagram.com/teamshrub"
   icon: "fa-instagram"
 
 youtube:
