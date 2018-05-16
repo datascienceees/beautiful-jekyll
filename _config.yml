@@ -24,7 +24,7 @@ description: University of Edinburgh
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About me: "aboutme"
   Apply: "apply"
   Assessment: "assessment"
   Resources: "resources"
