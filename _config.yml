@@ -16,6 +16,10 @@ baseurl: ""
 # Name of website
 title: Data Science in Ecology and Environmental Science
 
+# Short description of your site
+description: University of Edinburgh
+
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
