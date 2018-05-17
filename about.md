@@ -5,7 +5,7 @@ subtitle: Data Science in Ecology and Environmental Science
 ---
 
 ### Course aims
-__The Data Science in Ecology and Environmental Science course aims to promote the development of quantitative skills among 3rd and 4th year students (and MSc students when appropriate) at the University of Edinburgh using interactive workshops and an online learning platform. To find out more about the course, you can also check out the <a href="https://datascienceees.github.io/about/" target="_blank">course details</a> and <a href="https://datascienceees.github.io/syllabus/" target="_blank">syllabus</a>.__
+__The Data Science in Ecology and Environmental Science course aims to promote the development of quantitative skills among 3rd and 4th year students (and MSc students when appropriate) at the University of Edinburgh using interactive workshops and an online learning platform.__
 
 Key skillsets in ecological and environmental sciences include quantitative skills such as data manipulation, data visualization, coding, statistics, simulation, and more - together this skillset can be called data science. Data Science in Ecology and Environmental Sciences will teach quantitative skills including data management, data visualization, programming, simulation and statistical analysis. The course will teach about the field of data science and how it applies to the disciplines of ecology and environmental science. Students will learn about best practices in data science and will contribute to peer learning. Skills will be taught using an online problem-based learning approach and in class tutorials and discussions.
 
@@ -42,3 +42,10 @@ The course will be run with in person tutorials and lectures, but also online us
 
 <center> <img src="{{ site.baseurl }}/img/cc_tuts.png" alt="Img" style="width: 500px;"/> </center>
 
+
+<h2>Teaching team</h2>
+<p><a href="https://teamshrub.com" target="_blank">Isla Myers-Smith</a> (Course organiser)</p>
+<p><a href="https://gndaskalova.com" target="_blank">Gergana Daskalova</a> (PhD tutor)</p>
+<p>With support from the larger <a href="https://ourcodingclub.github.io/team/" target="_blank">Coding Club team</a> for the development of online tutorials.</p>
+
+<center> <img src="{{ site.baseurl }}/img/Picture1.png" alt="Img" style="width: 800px;"/> </center>
