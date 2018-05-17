@@ -4,6 +4,8 @@ title: Course schedule
 subtitle: Themes and readings for each week
 ---
 
+__You can download a `pdf` of the course syllabus <a href="https://drive.google.com/file/d/1m0aUvwyU_HwiugJnpXv2_LdM0pU7jkMY/view?usp=sharing" target="_blank">here</a>.__
+
 ### Week 1: Introduction to Data Science
 *Lecture:* Intro to GitHub and version control
 *Challenge theme:* Set up your own GitHub repository (assessed as a part of the repository mark)
@@ -132,3 +134,5 @@ Spatial data manipulation
 <a href="https://dynamicecology.wordpress.com/2014/10/27/non-academic-careers-for-ecologists-data-science-guest-post/" target="_blank">Non-academic careers for ecologists: data science</a>
 
 <a href="https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/" target="_blank">Profile of Data Scientist: Jenny Bryan</a>
+
+<center> <img src="{{ site.baseurl }}/img/cc3.jpg" alt="Img" style="width: 500px;"/> </center>
