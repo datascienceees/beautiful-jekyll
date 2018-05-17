@@ -15,8 +15,8 @@ __On the Coding Club website you can find many tutorials on topics such as data 
 
 <b><a href="http://ggplot2.tidyverse.org" target="_blank">Data visualisation using `ggplot2`</a></b>
 
-<b><a href="https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf" target="_blank"> The British Ecological Society Guide to Data Management</a></b>
-<center> <img src="{{ site.baseurl }}/img/bes1.png" alt="Img" style="width: 200px;"/> </center>
+##### <b><a href="https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf" target="_blank"> The British Ecological Society Guide to Data Management</a></b>
 
-<b><a href="https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf" target="_blank"> The British Ecological Society Guide to Reproducible Code</a></b>
-<center> <img src="{{ site.baseurl }}/img/bes2.png" alt="Img" style="width: 200px;"/> </center>
+##### <b><a href="https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf" target="_blank"> The British Ecological Society Guide to Reproducible Code</a></b>
+
+<center> <img src="{{ site.baseurl }}/img/bes2.png" alt="Img" style="width: 200px;"/> <img src="{{ site.baseurl }}/img/bes1.png" alt="Img" style="width: 200px;"/> </center>
