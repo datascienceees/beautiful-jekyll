@@ -135,4 +135,4 @@ Spatial data manipulation
 
 <a href="https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/" target="_blank">Profile of Data Scientist: Jenny Bryan</a>
 
-<center> <img src="{{ site.baseurl }}/img/cc3.jpg" alt="Img" style="width: 500px;"/> </center>
+<center> <img src="{{ site.baseurl }}/img/cc3.jpg" alt="Img" style="width: 800px;"/> </center>
