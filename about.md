@@ -38,7 +38,7 @@ The course will introduce a variety of programming languages to the students and
 ### Online framework:
 <center> <img src="{{ site.baseurl }}/img/cc_screen.png" alt="Img" style="width: 500px;"/> </center>
 
-The course will be run with in person tutorials and lectures, but also online using the Coding Club website (https://ourcodingclub.github.io/, Figure 2) and the code hosting platform for version control and collaboration GitHub (https://github.com/). GitHub Education provides free access to private repositories for students and staff for teaching and research purposes (https://education.github.com/).
+The course will be run with in person tutorials and lectures, but also online using the <a href="https://ourcodingclub.github.io/" target="_blank">Coding Club website</a> and the code hosting platform for version control and collaboration <a href="https://github.com/" target="_blank">GitHub</a>. <a href="https://education.github.com/" target="_blank">GitHub Education</a> provides free access to private repositories for students and staff for teaching and research purposes.
 
 <center> <img src="{{ site.baseurl }}/img/cc_tuts.png" alt="Img" style="width: 500px;"/> </center>
 
