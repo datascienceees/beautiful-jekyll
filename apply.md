@@ -5,3 +5,5 @@ subtitle: Learn about data science starting in Sept 2018!
 ---
 
 __If you are keen to join us for the start of the course in September 2018, please fill out the form below.__
+
+<center> <img src="{{ site.baseurl }}/img/Coding-Club-collage.jpg" alt="Img" style="width: 500px;"/> </center>
