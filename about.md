@@ -5,7 +5,7 @@ subtitle: Data Science in Ecology and Environmental Science
 ---
 
 ### Course aims
-__The Data Science in Ecology and Environmental Science course aims to promote the development of quantitative skills among 3rd and 4th year students (and MSc students when appropriate) at the University of Edinburgh using interactive workshops and an online learning platform.__
+__The Data Science in Ecology and Environmental Science course aims to promote the development of quantitative skills among 3rd and 4th year students (and MSc students when appropriate) at the University of Edinburgh using interactive workshops and an online learning platform. To find out more about the course, you can also check out the <a href="https://datascienceees.github.io/about/" target="_blank">course details</a> and <a href="https://datascienceees.github.io/syllabus/" target="_blank">syllabus</a>.__
 
 Key skillsets in ecological and environmental sciences include quantitative skills such as data manipulation, data visualization, coding, statistics, simulation, and more - together this skillset can be called data science. Data Science in Ecology and Environmental Sciences will teach quantitative skills including data management, data visualization, programming, simulation and statistical analysis. The course will teach about the field of data science and how it applies to the disciplines of ecology and environmental science. Students will learn about best practices in data science and will contribute to peer learning. Skills will be taught using an online problem-based learning approach and in class tutorials and discussions.
 
@@ -36,5 +36,9 @@ Data Science in ESS will allow students to gain a set of 10 key quantitative ski
 The course will introduce a variety of programming languages to the students and we will teach the fundamentals of programming generically.  Much of the course content will focus on the programming language R, which is dominant in the field of Ecology and Environmental Sciences, however we will expose the students to other programming languages and will encourage them to seek out relevant programming languages and different skillsets as appropriate.  The students will not be directly assessed on their command of programming languages (allowing more beginner and advanced students to participate on the same course), but rather how they engage with the quantitative skills being taught in the collaborative coding environment and how they design the teaching of any quantitative skills through the tutorial that they will develop.
 
 ### Online framework:
+<center> <img src="{{ site.baseurl }}/img/cc_screen.png" alt="Img" style="width: 500px;"/> </center>
 
 The course will be run with in person tutorials and lectures, but also online using the Coding Club website (https://ourcodingclub.github.io/, Figure 2) and the code hosting platform for version control and collaboration GitHub (https://github.com/). GitHub Education provides free access to private repositories for students and staff for teaching and research purposes (https://education.github.com/).
+
+<center> <img src="{{ site.baseurl }}/img/cc_tuts.png" alt="Img" style="width: 500px;"/> </center>
+
