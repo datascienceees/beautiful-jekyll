@@ -20,6 +20,10 @@ __You can download a `pdf` of the course syllabus <a href="https://drive.google.
 
 <a href="https://doi.org/10.7287/peerj.preprints.3159v2" target="_blank">Bryan J. (2017) Excuse me, do you have a moment to talk about version control? PeerJ Preprints 5:e3159v2 </a>
 
+<a href="https://dynamicecology.wordpress.com/2018/05/02/what-are-the-most-important-technical-statistical-mistakes-in-ecological-history-and-were-they-all-that-important/">What are the most important “technical” statistical mistakes in ecological history? And were they all THAT important?</a>
+
+<a href="https://theoreticalecology.wordpress.com/2018/05/03/yes-statistical-errors-are-slowing-down-scientific-progress/">Yes, statistical errors are slowing down scientific progress!</a>
+
 ### Week 2: Functional and object-oriented programming
 *Lecture:* Programming in Ecology and Environmental Sciences
 *Challenge theme:* Using R to organise and visualise data
