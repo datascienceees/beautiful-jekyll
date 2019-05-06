@@ -31,9 +31,9 @@ The final assessment on the course will be for each student to develop their own
 
 ### Check out example tutorials created by the Data Science in EES 2018 cohort!
 
-#### <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in R</a>
+#### <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in R
 By Maude Grenier
-<center> <img src="{{ site.baseurl }}/img/spatial_logo.png" alt="Img" style="width: 500px;"/> </center>
+<center> <img src="{{ site.baseurl }}/img/spatial_logo.png" alt="Img" style="width: 500px;"/> </center><a>
 
 Keen to learn how to import, manipulate, visualise and analyse spatial data? Learn about rasters and working with them in `R`? If yes, then check out Maude's tutorial!
 
