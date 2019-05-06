@@ -28,3 +28,12 @@ Students will be assessed on eight challenges across the course. Half will be in
 ### Development of a new tutorial - 40%
 
 The final assessment on the course will be for each student to develop their own tutorial for the Coding Club website. The tutorial can be teaching introductory, intermediate or advanced quantitative skills in any programming language. The tutorial will be assessed on the way it teaches the quantitative skill including how clearly it is written, how well it is organised and the creativity used. Students will have completed 10 tutorials by the end of the course and will have access to all previous Coding Club tutorials as models for what can be produced. They will be asked to produce a tutorial on a unique quantitative skill and they will be encouraged to develop this tutorial as the course progresses and will receive formative feedback from the staff instructor and tutor as they progress throughout the course. Students will also be encouraged to get peer feedback on their tutorial as they develop it. The final hand in will include a GitHub repository for the tutorial including a markdown document of the tutorial, code extracts and visualizations of the tutorial content.
+
+### Check out example tutorials created by the Data Science in EES 2018 cohort!
+
+#### <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in R</a>
+By Maude Grenier
+<center> <img src="{{ site.baseurl }}/img/spatial_logo.png" alt="Img" style="width: 500px;"/> </center>
+
+Keen to learn how to import, manipulate, visualise and analyse spatial data? Learn about rasters and working with them in `R`? If yes, then check out Maude's tutorial!
+
