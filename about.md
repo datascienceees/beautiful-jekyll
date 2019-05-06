@@ -35,6 +35,8 @@ Data Science in ESS will allow students to gain a set of 10 key quantitative ski
 
 The course will introduce a variety of programming languages to the students and we will teach the fundamentals of programming generically.  Much of the course content will focus on the programming language R, which is dominant in the field of Ecology and Environmental Sciences, however we will expose the students to other programming languages and will encourage them to seek out relevant programming languages and different skillsets as appropriate.  The students will not be directly assessed on their command of programming languages (allowing more beginner and advanced students to participate on the same course), but rather how they engage with the quantitative skills being taught in the collaborative coding environment and how they design the teaching of any quantitative skills through the tutorial that they will develop.
 
+__The key assignment from the course is the development of an online tutorial, which advances students' skills in not only acquiring knowledge, but also sharing it in an accessible way. For an example tutorial from the 2018 cohort of the course, check out Maude Grenier's <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in `R`</a> tutorial, featured on the <a href="https://ourcodingclub.github.io/tutorials/" target="_blank">Coding Club website</a>!__
+
 ### Online framework:
 <center> <img src="{{ site.baseurl }}/img/cc_screen.png" alt="Img" style="width: 500px;"/> </center>
 
