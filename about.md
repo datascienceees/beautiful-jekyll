@@ -19,17 +19,27 @@ Key skillsets in ecological and environmental sciences include quantitative skil
 
 ### Key skills taught:
 
-1.	Version control and collaborative coding (week 1)
-2.	The basics of functional and object-oriented programming (week 2)
-3.	Development of workflows for quantitative analysis (week 3)
-4.	Data manipulation and organisation (week 4)
-5.	Data visualisation and graphics (week 5)
-6.	Big Data in Ecology and Environmental Sciences (week 6)
-7.	Statistics revision and the linear model (weeks 6 and 7)
-8.	An intro to hierarchical linear models (week 7)
-9.	An intro to Bayesian statistics (using the linear model, week 8)
-10.	Computing intensive research (week 9)
-11.	Careers in Data Science (week 10)
+1.	Version control and collaborative coding
+2.	The basics of functional and object-oriented programming
+3.	Development of workflows for quantitative analysis
+4.	Data manipulation and organisation
+5.	Data visualisation and graphics
+6.	Big Data in Ecology and Environmental Sciences
+7.	Statistics and the linear model
+8.	An intro to hierarchical linear models
+9.	An intro to Bayesian statistics (using the linear model)
+10.	Computing intensive research
+11.	Careers in Data Science
+
+### Programming languages introduced
+
+•	R
+•	Git
+•	Markdown
+•	Html
+•	Stan
+•	JavaScript
+•	Python
 
 Data Science in ESS will allow students to gain a set of 10 key quantitative skills and also tailor their quantitative training to the skillsets and level they want to obtain in a way that traditional courses cannot. Each student will maintain their own version-controlled repository of data and code and will also provide peer feedback on work provided by other students as the course progresses. 
 
@@ -48,6 +58,8 @@ The course will be run with in person tutorials and lectures, but also online us
 <h2>Teaching team</h2>
 <p><a href="https://teamshrub.com" target="_blank">Isla Myers-Smith</a> (Course organiser)</p>
 <p><a href="https://gndaskalova.com" target="_blank">Gergana Daskalova</a> (PhD tutor)</p>
+<p><a href="https://teamshrub.com" target="_blank">Elise Gallois</a> (PhD tutor)</p>
+<p><a href="https://teamshrub.com" target="_blank">Sandra Angers-Blondin</a> (PhD tutor)</p>
 <p>With support from the larger <a href="https://ourcodingclub.github.io/team/" target="_blank">Coding Club team</a> for the development of online tutorials.</p>
 
 <center> <img src="{{ site.baseurl }}/img/Picture1.png" alt="Img" style="width: 800px;"/> </center>
