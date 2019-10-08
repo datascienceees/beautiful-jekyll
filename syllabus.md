@@ -53,8 +53,11 @@ R for Data Science Chapter 1
 http://r4ds.had.co.nz/introduction.html
 
 ## Week 4	Data manipulation and organisation	
-Coding Club: Efficient data manipulation in R
-https://ourcodingclub.github.io/2017/01/16/piping.html
+Coding Club: Basic data manipulation in R
+https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html
+
+Efficient data manipulation in R
+https://ourcodingclub.github.io/2017/01/06/data-manip-efficient.html
 
 Readings:
 https://www.tidyverse.org/
