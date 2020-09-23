@@ -66,7 +66,7 @@ https://ourcodingclub.github.io/tutorials/tutorials/
 
 Keen to learn how to import, manipulate, visualise and analyse spatial data? Learn about rasters and working with them in `R`? If yes, then check out Maude's tutorial!
 #### <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in R. By Maude Grenier
-<center> <img src="{{ site.baseurl }}/img/spatial_logo.png" alt="Img" style="width: 500px;"/> </center></aa>
+<center> <img src="{{ site.baseurl }}/img/spatial_logo.png" alt="Img" style="width: 500px;"/> </center></a>
 
 To learn how to create and maintain an awesome personal repository, check out Beverly's tutorial!
 
