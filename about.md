@@ -47,10 +47,10 @@ The course will introduce a variety of programming languages to the students and
 
 __The key assignment from the course is the development of an online tutorial, which advances students' skills in not only acquiring knowledge, but also sharing it in an accessible way. For an example tutorial from the 2018 cohort of the course, check out Maude Grenier's <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in `R`</a> tutorial, featured on the <a href="https://ourcodingclub.github.io/tutorials/" target="_blank">Coding Club website</a>!__
 
-### Online framework:
+### Online framework and flipped classroom
 <center> <img src="{{ site.baseurl }}/img/cc_screen.png" alt="Img" style="width: 500px;"/> </center>
 
-The course will be run online using the <a href="https://ourcodingclub.github.io/" target="_blank">Coding Club website</a> and the code hosting platform for version control and collaboration <a href="https://github.com/" target="_blank">GitHub</a>. <a href="https://education.github.com/" target="_blank">GitHub Education</a> provides free access to private repositories for students and staff for teaching and research purposes.
+The course will be run online using the <a href="https://ourcodingclub.github.io/" target="_blank">Coding Club website</a> and the code hosting platform for version control and collaboration <a href="https://github.com/" target="_blank">GitHub</a>. <a href="https://education.github.com/" target="_blank">GitHub Education</a> provides free access to private repositories for students and staff for teaching and research purposes. There will be no formal lectures in the course. Instead 1.5-hour tutorials and 2- hour online workshops with the teaching team will be held involving student-driven discussion and hands on learning. Students will need to complete Coding Club tutorials each week and study readings and additional resources so that they can bring questions to the tutorials and participate in discussions.
 
 <center> <img src="{{ site.baseurl }}/img/cc_tuts.png" alt="Img" style="width: 500px;"/> </center>
 
