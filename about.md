@@ -50,16 +50,18 @@ __The key assignment from the course is the development of an online tutorial, w
 ### Online framework:
 <center> <img src="{{ site.baseurl }}/img/cc_screen.png" alt="Img" style="width: 500px;"/> </center>
 
-The course will be run with in person tutorials and lectures, but also online using the <a href="https://ourcodingclub.github.io/" target="_blank">Coding Club website</a> and the code hosting platform for version control and collaboration <a href="https://github.com/" target="_blank">GitHub</a>. <a href="https://education.github.com/" target="_blank">GitHub Education</a> provides free access to private repositories for students and staff for teaching and research purposes.
+The course will be run online using the <a href="https://ourcodingclub.github.io/" target="_blank">Coding Club website</a> and the code hosting platform for version control and collaboration <a href="https://github.com/" target="_blank">GitHub</a>. <a href="https://education.github.com/" target="_blank">GitHub Education</a> provides free access to private repositories for students and staff for teaching and research purposes.
 
 <center> <img src="{{ site.baseurl }}/img/cc_tuts.png" alt="Img" style="width: 500px;"/> </center>
-
 
 <h2>Teaching team</h2>
 <p><a href="https://teamshrub.com" target="_blank">Isla Myers-Smith</a> (Course organiser)</p>
 <p><a href="https://gndaskalova.com" target="_blank">Gergana Daskalova</a> (PhD tutor)</p>
 <p><a href="https://teamshrub.com" target="_blank">Elise Gallois</a> (PhD tutor)</p>
-<p><a href="https://teamshrub.com" target="_blank">Sandra Angers-Blondin</a> (PhD tutor)</p>
+<p><a href="https://teamshrub.com" target="_blank">Maude Grenier (PhD tutor)</p>
+<p><a href="https://teamshrub.com" target="_blank">Joseph Everest (PhD tutor)</p>
+<p><a href="https://teamshrub.com" target="_blank">Shawn Schneidereit (Tutor)</p>
+
 <p>With support from the larger <a href="https://ourcodingclub.github.io/team/" target="_blank">Coding Club team</a> for the development of online tutorials.</p>
 
 <center> <img src="{{ site.baseurl }}/img/Picture1.png" alt="Img" style="width: 800px;"/> </center>
