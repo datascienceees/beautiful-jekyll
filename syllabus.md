@@ -8,7 +8,7 @@ __You can download a `pdf` of the course syllabus <a href="https://drive.google.
 
 
 ## Week 1	Introduction to data science	
-https://ourcodingclub.github.io
+[https://ourcodingclub.github.io]
 https://ourcodingclub.github.io/course
 https://datascienceees.github.io/
 
@@ -72,6 +72,9 @@ http://r4ds.had.co.nz/wrangle-intro.html
 ## Week 5	Data visualisation and graphics	
 Coding Club: Beautiful and informative data visualisation in R
 https://ourcodingclub.github.io/datavis
+
+Customising your figures
+https://ourcodingclub.github.io/tutorials/data-vis-2/
 
 Beautifying graphs and taking your visualisation to the next level
 https://ourcodingclub.github.io/tutorials/dataviz-beautification/
