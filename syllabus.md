@@ -8,7 +8,7 @@ __You can download a `pdf` of the course syllabus <a href="https://drive.google.
 
 
 ## Week 1	Introduction to data science	
-[https://ourcodingclub.github.io]
+https://ourcodingclub.github.io
 https://ourcodingclub.github.io/course
 https://datascienceees.github.io/
 
