@@ -96,6 +96,9 @@ https://www.sciencedirect.com/science/article/pii/S0169534716300957
 Open Science Framework
 https://osf.io/
 
+Tidy modelling in R
+https://www.tmwr.org
+
 ## Week 7	Hierarchical models	
 Coding Club: Intro to mixed effects models
 https://ourcodingclub.github.io/mixed-models
