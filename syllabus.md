@@ -4,16 +4,20 @@ title: Course schedule
 subtitle: Themes and readings for each week
 ---
 
-__You can download a `pdf` of the course syllabus <a href="https://drive.google.com/file/d/1oNIK7aRklwchGs77pNHeuPT_KOyQf0GH/view?usp=sharing" target="_blank">here</a>.__
+__You can download a `pdf` of the course syllabus <a href="https://drive.google.com/file/d/1zJXWdal_89UhKf6ulkpr17ye22BG0pXB/view?usp=sharing" target="_blank">here</a>.__
 
 
 ## Week 1	Introduction to data science	
 https://ourcodingclub.github.io
+https://ourcodingclub.github.io/course
 https://datascienceees.github.io/
 
 ## Week 2 Version control and collaborative coding	
-Coding Club: Intro to git and version control 
-https://ourcodingclub.github.io/2017/02/27/git.html
+Coding Club: Getting started with R and RStudio
+https://ourcodingclub.github.io/tutorials/intro-to-r/
+
+Troubleshooting and how to find help
+https://ourcodingclub.github.io/troubleshooting
 
 Readings: 
 https://en.wikipedia.org/wiki/Data_science
@@ -30,17 +34,14 @@ R for Data Science Chapter 27 Markdown
 http://r4ds.had.co.nz/r-markdown.html
 
 Tutorial: Introduction to Markdown
-https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html
+https://ourcodingclub.github.io/rmarkdown
 
 ## Week 3	Functional and object-oriented programming	
-Coding Club: Getting started with R and RStudio
-https://ourcodingclub.github.io/2016/11/13/intro-to-r.html
-
-Troubleshooting and how to find help
-https://ourcodingclub.github.io/2016/11/15/troubleshooting.html
+Coding Club: Intro to git and version control 
+https://ourcodingclub.github.io/tutorials/git/
 
 Coding Etiquette
-https://ourcodingclub.github.io/2017/04/25/etiquette.html
+https://ourcodingclub.github.io/etiquette
 
 Readings:
 https://en.wikipedia.org/wiki/Computer_programming
@@ -54,10 +55,10 @@ http://r4ds.had.co.nz/introduction.html
 
 ## Week 4	Data manipulation and organisation	
 Coding Club: Basic data manipulation in R
-https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html
+https://ourcodingclub.github.io/tutorials/data-manip-intro/
 
 Efficient data manipulation in R
-https://ourcodingclub.github.io/2017/01/06/data-manip-efficient.html
+https://ourcodingclub.github.io/data-manip-efficient
 
 Readings:
 https://www.tidyverse.org/
@@ -70,7 +71,10 @@ http://r4ds.had.co.nz/wrangle-intro.html
 
 ## Week 5	Data visualisation and graphics	
 Coding Club: Beautiful and informative data visualisation in R
-https://ourcodingclub.github.io/2017/01/29/datavis.html
+https://ourcodingclub.github.io/datavis
+
+Beautifying graphs and taking your visualisation to the next level
+https://ourcodingclub.github.io/tutorials/dataviz-beautification/
 
 Readings:
 R for Data Science Chapter 3 Data visualisation
@@ -81,7 +85,7 @@ http://r4ds.had.co.nz/graphics-for-communication.html
 
 ## Week 6	Linear models	
 Coding Club: Intro to model design 
-https://ourcodingclub.github.io/2018/04/06/model-design.html
+https://ourcodingclub.github.io/model-design
 
 Parker, T.H., Forstmeier, W., Koricheva, J., Fidler, F., Hadfield, J.D., Chee, Y.E., Kelly, C.D., Gurevitch, J. and Nakagawa, S., 2016. Transparency in ecology and evolution: real problems, real solutions. Trends in ecology & evolution, 31(9), pp.711-719.
 https://www.sciencedirect.com/science/article/pii/S0169534716300957
@@ -91,7 +95,7 @@ https://osf.io/
 
 ## Week 7	Hierarchical models	
 Coding Club: Intro to mixed effects models
-https://ourcodingclub.github.io/2017/03/15/mixed-models.html
+https://ourcodingclub.github.io/mixed-models
 
 Readings:
 There’s Madness in our Methods: Improving inference in ecology and evolution
@@ -101,14 +105,14 @@ R for Data Science Part IV Model Chapters 22 - 25
 http://r4ds.had.co.nz/model-basics.html
 
 ## Week 8	Intro to Bayesian statistics	
-Coding Club: Intro to Bayesian statistics
-https://ourcodingclub.github.io/2018/04/17/stan-intro.html
+Coding Club: Meta-analysis using MCMCglmm
+https://ourcodingclub.github.io/2018/01/22/mcmcglmm.html
+
+Intro to Bayesian statistics
+https://ourcodingclub.github.io/stan-intro
 
 Generalised linear models using Stan
 https://ourcodingclub.github.io/2018/04/30/stan-2.html
-
-Meta-analysis using MCMCglmm
-https://ourcodingclub.github.io/2018/01/22/mcmcglmm.html
 
 Readings:
 Bayesian statistics: What’s it all about?
@@ -116,7 +120,7 @@ http://andrewgelman.com/2016/12/13/bayesian-statistics-whats/
 
 ## Week 9	Big Data in Ecology and Environmental Sciences	
 Coding Club: Introduction to the Tidyverse
-https://ourcodingclub.github.io/2016/01/01/data-synthesis.html
+https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/
 
 Readings:
 Hampton, S.E., Strasser, C.A., Tewksbury, J.J., Gram, W.K., Budden, A.E., Batcheller, A.L., Duke, C.S. and Porter, J.H., 2013. Big data and the future of ecology. Frontiers in Ecology and the Environment, 11(3), pp.156-162.
@@ -127,10 +131,10 @@ http://r4ds.had.co.nz/exploratory-data-analysis.html
 
 ## Week 10	Computing intensive research	
 Coding Club: Intro to the Google Earth Engine
-https://ourcodingclub.github.io/2018/11/26/earth-engine.html
+https://ourcodingclub.github.io/earth-engine
 https://earthengine.google.com/
 
-Tutorial: Intro to the Google Earth Engine and JavaScript
+Tutorials: Intro to the Google Earth Engine and JavaScript
 https://developers.google.com/earth-engine/tutorial_js_01
 https://developers.google.com/earth-engine/tutorial_forest_03
 
@@ -143,7 +147,7 @@ http://rspatial.org/analysis/index.html
 
 ## Week 11	Careers in Data Science	
 Coding Club: Intro to spatial analysis in R
-https://ourcodingclub.github.io/2019/03/26/spatial.html
+https://ourcodingclub.github.io/spatial
 
 Readings:
 Non-academic careers for ecologists: data science
