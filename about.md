@@ -47,6 +47,9 @@ The course will introduce a variety of programming languages to the students and
 
 __The key assignment from the course is the development of an online tutorial, which advances students' skills in not only acquiring knowledge, but also sharing it in an accessible way. For an example tutorial from the 2018 cohort of the course, check out Maude Grenier's <a href="https://ourcodingclub.github.io/2019/03/26/spatial.html" target="_blank">Intro to spatial analysis in `R`</a> tutorial, featured on the <a href="https://ourcodingclub.github.io/tutorials/" target="_blank">Coding Club website</a>!__
 
+### Course schedule
+<center> <img src="{{ site.baseurl }}/img/schedule2020.png" alt="Img" style="width: 600px;"/> </center>
+
 ### Online framework and flipped classroom
 <center> <img src="{{ site.baseurl }}/img/cc_screen.png" alt="Img" style="width: 500px;"/> </center>
 
